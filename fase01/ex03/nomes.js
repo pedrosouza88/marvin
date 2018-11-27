@@ -1,4 +1,4 @@
-function nomes (pedro,  tiao) {
+function nomes (pedro,tiao) {
     return "pedro e tiao"
 }
 
