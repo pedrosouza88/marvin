@@ -1,4 +1,4 @@
 function nomes (pedro,tiao) {
-    return "pedro e tiao"
+    console.log "pedro e tiao"
 }
 
