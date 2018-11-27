@@ -1,5 +1,5 @@
-function qualNome (pedro){
-return"meu nome é pedro"
+function qualNome (nome){
+console.log ("Meu nome é Arthur")
 }
 
 
